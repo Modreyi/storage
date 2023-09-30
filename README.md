@@ -1,2 +1,2 @@
 # storage
-testing repository
+testing repo
